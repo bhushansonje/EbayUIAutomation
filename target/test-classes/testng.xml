@@ -1,0 +1,7 @@
+<suite name="EbayTestSuite" verbose="1" parallel="false">
+    <test name="EbayTests">
+        <classes>
+            <class name="TestRunner"/>
+        </classes>
+    </test>
+</suite>

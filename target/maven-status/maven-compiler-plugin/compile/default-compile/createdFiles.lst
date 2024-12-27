@@ -1,0 +1,4 @@
+pageobjects\ItemListingPage.class
+pageobjects\EbayBasePage.class
+pageobjects\EbayHomePage.class
+pageobjects\SearchResultsPage.class
